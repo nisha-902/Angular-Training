@@ -1,0 +1,28 @@
+{
+    "restorant":[
+        {
+            "id":1,
+            "name":"abc restorant",
+            "owner":"nisha",
+            "mobile":"+912688989",
+            "email":"abc@gmail.com",
+            "location":"punjab"
+        },
+        {
+            "id":2,
+            "name":"ffc restorant",
+            "owner":"simran",
+            "mobile":"+912668799",
+            "email":"cdk@gmail.com",
+            "location":"new delhi"
+        },
+        {
+            "id":3,
+            "name":"hh restorant",
+            "owner":"seeta",
+            "mobile":"+91268888779",
+            "email":"jkjh@gmail.com",
+            "location":"mysore"
+        }
+    ]
+}

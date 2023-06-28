@@ -1,0 +1,25 @@
+{
+  "properties": [
+    {
+      "id": 1,
+      "ptitle": "nisha",
+      "pprice": "456",
+      "plocation": "punjab,hosh",
+      "pdetails": "all is available"
+    },
+    {
+      "id": 2,
+      "ptitle": "rtyu",
+      "pprice": "dfghj",
+      "plocation": "cvbn",
+      "pdetails": "cvbn"
+    }
+  ],
+  "login": [
+    {
+      "email": "nisha@skillbout.com",
+      "password": "123456",
+      "id": 2
+    }
+  ]
+}
